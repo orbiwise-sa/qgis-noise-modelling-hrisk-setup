@@ -9,6 +9,7 @@ This repository provides a set of scripts and instructions for setting up QGIS w
   - [Installation](#installation)
   - [Usage](#usage)
   - [Documentation](#documentation)
+  - [Help Videos](#help-videos)
   - [License](#license)
   - [Contributing](#contributing)
   - [Acknowledgements](#acknowledgements)
@@ -43,6 +44,15 @@ For detailed guidance, refer to the following resources:
 
 - [NoiseModelling Documentation](https://noisemodelling.readthedocs.io/en/latest/)
 - [H-RISK Plugin Information](https://gitlab.com/jtagusari/hrisk-noisemodelling)
+
+## Help Videos
+
+A short video is created for installing the H-RISK plugin on QGIS.
+- [Installing H-RISK Plugin on QGIS](https://www.youtube.com/watch?v=IoDwDXulqVc)
+
+There are two more videos explaining Noise Maps creation using QGIS with H-RISK plugin utilizing NoiseModelling. The videos use Geneva and Tokyo Regions.
+- [Geneva Noise Mapping in QGIS with H-RISK & Noise Modelling](https://www.youtube.com/watch?v=ibxcbnt9H-Q)
+- [Tokyo Noise Mapping in QGIS with H-RISK & Noise Modelling](https://www.youtube.com/watch?v=9jbXvAqdPRI)
 
 ## License
 
